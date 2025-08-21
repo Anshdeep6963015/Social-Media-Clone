@@ -8,7 +8,7 @@ It brings the vibes of modern social media apps with a clean design, real-time f
 
 <br>
 
-##✨ Features
+## ✨ Features
 
 ✅ User Authentication: Secure sign-up, login, and sign-out with JWT and Bcrypt for password hashing.
 
