@@ -26,7 +26,8 @@ It brings the vibes of modern social media apps with a clean design, real-time f
 
 ✅ Responsive & Modern UI: Built with React and styled with Tailwind CSS for a seamless experience on all devices.
 
-##🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 Frontend
 ⚛️ React.js
