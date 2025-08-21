@@ -1,4 +1,4 @@
-## 🌐 VYBE 
+# 🌐 VYBE 
  Social Media Clone
 VYBE is a full-stack social media platform built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
@@ -8,7 +8,8 @@ It brings the vibes of modern social media apps with a clean design, real-time f
 
 <br>
 
-✨ Features
+##✨ Features
+
 ✅ User Authentication: Secure sign-up, login, and sign-out with JWT and Bcrypt for password hashing.
 
 ✅ Create, Like, Comment, and Share Posts: Full CRUD (Create, Read, Update, Delete) functionality for posts.
@@ -25,7 +26,8 @@ It brings the vibes of modern social media apps with a clean design, real-time f
 
 ✅ Responsive & Modern UI: Built with React and styled with Tailwind CSS for a seamless experience on all devices.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
+
 Frontend
 ⚛️ React.js
 
@@ -33,7 +35,8 @@ Frontend
 
 🔄 Redux Toolkit
 
-Backend
+## Backend
+
 🟢 Node.js
 
 🚀 Express.js
@@ -42,7 +45,8 @@ Backend
 
 🔐 JWT Authentication
 
-Other Tools
+## Other Tools
+
 ⚡ Socket.io (Real-time Messaging)
 
 🐙 Git & GitHub (Version Control)
@@ -51,7 +55,8 @@ Other Tools
 
 📧 Nodemailer (Email Verification)
 
-🚀 Installation & Setup
+## 🚀 Installation & Setup
+
 1️⃣ Clone the repository
 git clone https://github.com/Anshdeep6963015/Social-Media-Clone.git
 cd Social-Media-Clone
@@ -65,7 +70,7 @@ npm install
 cd ../frontend
 npm install
 
-3️⃣ Add environment variables
+# 3️⃣ Add environment variables
 Create a .env file inside the backend/ directory with your own configuration:
 
 PORT=8000
