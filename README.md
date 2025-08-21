@@ -1,4 +1,5 @@
-🌐 VYBE – Social Media Clone
+## 🌐 VYBE 
+ Social Media Clone
 VYBE is a full-stack social media platform built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
 It brings the vibes of modern social media apps with a clean design, real-time features, and a smooth user experience.
